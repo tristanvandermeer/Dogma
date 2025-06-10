@@ -15,5 +15,9 @@ int square(const int x) { // Just need to learn the syntax
 
 class MyClass { // Class definition
 public:
-    int val;
+    int val; // Attributes
+
+    void kill() {// Method
+        cout << "Value: " << val << endl;
+    }
 };
