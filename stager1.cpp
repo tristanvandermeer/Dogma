@@ -3,6 +3,7 @@
 #include <iostream>
 
 // CURRENTLY DOESN'T TAKE SHELLCODE FROM C2
+// THIS LOADER IS A CASE STUDY
 
 // Add simple reverse shell shellcode
 
